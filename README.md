@@ -58,11 +58,13 @@
    <div id="header">Сайт-звіт до лабораторних робіт студентки 1 курсу групи "математики" Денисюк Валерії</div>
   <div id="content">
    
-<h2>звіт до лабораторної роботи №1. Тема - Формування за зразком</h2> <p>2. Індивідуальне завдання <img src="Desert.jpg" alt="завдання"> 
-</p> <p>3. <iframe src="lab1.pdf" width="500" height="700"></iframe></p> <p>4. 
-<a href="https://drive.google.com/file/d/1-qSt0Ly_LgkXTidaJdBhMYMJj4_ais7E/view?usp=sharing">Посилання на Гугл диск</a></p> <p>5. 
-<a href="lab1.docx">Формат Microsoft (*.docx)</a></p> <p>5. <a href="lab1.odt">Формат Open Office (*.odt)</a>
-</p> <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHvXuaKKUqzEOLCOvdVDc2u1vCEM7ETWj1ZONodqoeVoeV9A49JErKpSwxu2bCJTOiyxbVcSzN0D0D/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<h2>звіт до лабораторної роботи №1. Тема - Формування за зразком</h2> 
+<p>2. Індивідуальне завдання <img src="Desert.jpg" alt="завдання"> </p> 
+<p>3. <iframe src="lab1.pdf" width="500" height="700"></iframe></p> 
+<p>4. <a href="https://drive.google.com/file/d/1XznFZ8gGGzIge5vKTEy5S2dGAGYKzyMU/view?usp=sharing">Посилання на Гугл диск</a></p> 
+<p>5. <a href="https://pnpu-my.sharepoint.com/:w:/g/personal/denisyuk_va_pdpu_edu_ua/Ed6K5nJdiGZNiBJixz-I1sIBnLJmmRaNjEXAgc51ZXxN4w?e=wKsrXG">Формат Microsoft (*.docx)</a></p> 
+<p>5. <a href="https://pnpu-my.sharepoint.com/:w:/g/personal/denisyuk_va_pdpu_edu_ua/EVfItl5ZF5pJtDED0zjuzVYBOx1Xyxk-jmhwam5qCtW5CQ?e=EjsrjG">Формат Open Office (*.odt)</a></p> 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHvXuaKKUqzEOLCOvdVDc2u1vCEM7ETWj1ZONodqoeVoeV9A49JErKpSwxu2bCJTOiyxbVcSzN0D0D/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
 
     <h2>Сайт-звіт до лабораторних робіт студентки 1 курсу групи "математики"</h2>
